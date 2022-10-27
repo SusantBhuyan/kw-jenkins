@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<errorList xmlns="http://www.klocwork.com/inForce/report/1.0">
+<problem>
+ <problemID>1</problemID>
+ <file>D:\Tools\Tools_Document\Klocwork\KW_checkers_Demo\test.c</file>
+ <line>18</line>
+ <method>main</method>
+ <code>FUNCRET.GEN</code>
+ <message>Non-void function does not return value</message>
+ <citingStatus>Analyze</citingStatus>
+ <severity>Critical</severity>
+ <severitylevel>1</severitylevel>
+ <displayAs>Error</displayAs>
+ <taxonomies>
+  <taxonomy name="C and C++" metaInf=""/>
+ </taxonomies>
+</problem>
+</errorList>

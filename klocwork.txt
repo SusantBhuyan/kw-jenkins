@@ -1,0 +1,6 @@
+
+D:\Tools\Tools_Document\Klocwork\KW_checkers_Demo>D:\Tools\Installation_path\Cantata\qa_systems\cantata\MinGW\bin\g++ test.c
+
+D:\Tools\Tools_Document\Klocwork\KW_checkers_Demo>kwinject D:\Tools\Installation_path\Cantata\qa_systems\cantata\MinGW\bin\g++ test.c
+
+D:\Tools\Tools_Document\Klocwork\KW_checkers_Demo>
